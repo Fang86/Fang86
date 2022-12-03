@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aidan Thiessen
 - 👀 I’m interested in React Native and Neural Networks
-- 🌱 I’m currently learning Software Development and Data Science at CU Boulder
+- 🌱 I’m currently learning Software Engineering and Data Science at CU Boulder
 - 💼 I work at Teen Hustl as the technical co-founder
 
 <!---
